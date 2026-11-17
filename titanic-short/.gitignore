@@ -4,3 +4,4 @@ audio/_cache/
 audio/stem_*.wav
 __pycache__/
 audio/mix.wav
+titanic_short.mp4
