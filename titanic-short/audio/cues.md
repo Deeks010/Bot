@@ -1,0 +1,86 @@
+# SFX cues (time s, gain dB, event)
+
+-    0.00   -6.0  bed night sea + engines -> 2.75
+-    2.15  -10.0  swell into flash
+-    2.60   -9.0  bed Southampton harbour -> 17.95
+-    2.63   -9.0  flash whoosh
+-    2.75   -8.0  steam whistle
+-    5.00  -12.0  steam whistle 2
+-    8.00   -8.0  crowd cheers 'unsinkable'
+-   11.39   -6.0  nudge
+-   12.45  -11.0  Blair steps
+-   12.97  -11.0  Blair steps
+-   13.24  -12.0  key jingle
+-   13.31  -12.0  key jingle
+-   13.38  -12.0  key jingle
+-   13.49  -11.0  Blair steps
+-   14.01  -11.0  Blair steps
+-   14.53  -11.0  Blair steps
+-   14.62  -14.0  cut whoosh
+-   15.05  -11.0  Blair steps
+-   16.24  -14.0  locker creak
+-   17.08   -9.0  padlock rattle
+-   17.80   -6.0  bed night sea + engines -> 36.10
+-   17.85  -12.0  to night
+-   21.75   -8.0  cold gust
+-   21.90  -14.0  teeth chatter
+-   25.70  -12.0  ice groan
+-   27.70  -12.0  spot whoosh
+-   27.78  -14.0  gasp
+-   27.83  -14.0  gasp
+-   28.72  -15.0  clock tick
+-   29.01  -15.0  clock tick
+-   29.30  -15.0  clock tick
+-   29.59  -15.0  clock tick
+-   29.88  -15.0  clock tick
+-   30.17   -6.0  crow's nest bell
+-   30.48   -6.0  crow's nest bell
+-   30.82   -6.0  crow's nest bell
+-   32.60  -12.0  turn whoosh
+-   32.70   -8.0  hull swings
+-   34.36   -4.0  ice scrapes the hull
+-   34.50  -12.0  ice chunk
+-   34.67  -12.0  ice chunk
+-   34.84  -12.0  ice chunk
+-   35.00  -14.0  ice splash
+-   35.01  -12.0  ice chunk
+-   35.18  -12.0  ice chunk
+-   35.20  -14.0  ice splash
+-   35.35  -12.0  ice chunk
+-   35.40  -14.0  ice splash
+-   35.52  -12.0  ice chunk
+-   35.60  -14.0  ice splash
+-   36.00   -8.0  bed cutaway hull tone -> 47.70
+-   37.35   -7.0  water bursts in
+-   38.95  -12.0  compartments flooding
+-   42.85  -10.0  glug
+-   44.59  -10.0  glug
+-   46.20  -10.0  water over the wall
+-   47.60  -12.0  bed tray: outdoor air -> 52.50
+-   48.95  -14.0  tap squeak
+-   49.18  -11.0  tap pours
+-   50.37  -12.0  trickle into next cell
+-   51.04  -12.0  trickle into next cell
+-   51.45  -12.0  trickle into next cell
+-   52.04  -12.0  trickle into next cell
+-   52.40   -7.0  bed calm sea after -> 60.10
+-   52.45  -12.0  to the sinking
+-   52.60   -8.0  hull groans
+-   54.65  -10.0  gone
+-   55.20  -18.0  oar creak
+-   56.10  -18.0  oar creak
+-   57.00  -18.0  oar creak
+-   57.20  -14.0  to day
+-   57.25  -10.0  bed harbour (rules) -> 60.20
+-   58.90  -14.0  ding
+-   60.00   -9.0  bed night deck (radio) -> 62.00
+-   60.12  -13.0  morse CQD
+-   61.80   -8.0  bed auction room murmur -> 69.07
+-   61.85  -14.0  to the auction
+-   64.00   -4.0  gavel
+-   65.03  -12.0  bidders gasp
+-   65.04  -12.0  bidders gasp
+-   65.06  -12.0  bidders gasp
+-   65.06  -12.0  bidders gasp
+-   65.08  -12.0  bidders gasp
+-   65.08  -12.0  bidders gasp
